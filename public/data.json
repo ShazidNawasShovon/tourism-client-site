@@ -1,0 +1,134 @@
+[
+    {
+        "key": "SNS01",
+        "name": "The Fairy Chimneys of Cappadocia",
+        "place":"TURKEY",
+        "rating":4.5,
+        "img": "https://preview.colorlib.com/theme/destino/images/xpopular_1.jpg.pagespeed.ic.u7BF9JOUqg.webp",
+        "price": 1599,
+        "days":"2 days 3 nights",
+        "details": "High on the Anatolian plateau, the curious landscapes of Cappadocia resemble a fantasy world. Honey-coloured rocks have eroded into sculptural forms resembling minarets, magic mushrooms and what have become known as Fairy Chimneys.",
+        "fullDetails":"High on the Anatolian plateau, the curious landscapes of Cappadocia resemble a fantasy world. Honey-coloured rocks have eroded into sculptural forms resembling minarets, magic mushrooms and what have become known as Fairy Chimneys, while underground, settlers since the Bronze Age have been busy carving out cave houses, churches and monasteries from the soft volcanic rock – even entire subterranean cities. The thing to do is take a hot-air balloon ride at sunrise or sunset; alternatively, see it on horseback or two wheels – or watch the spectacle from the terrace of your cave hotel in the town of Göreme (try Sultan Cave Suites for its rooftop, Museum Hotel or Kayakapi which all have outdoor pools; rustic-charming Cappadocia Cave Suites; or film-set-like Yunak Evleri) as hundreds of balloons drift overhead and the low sun casts apricot light on this extraordinary land. One of the most romantic spots on earth."
+    },
+    {
+        "key": "SNS02",
+        "name": "Santorini",
+        "place":"GREECE",
+        "rating":5,
+        "img": "https://www.touropia.com/gfx/d/tourist-attractions-in-greece/santorini.jpg",
+        "price": 2199,
+        "days":"3 days 3 nights",
+        "details": "Probably one of the most well-known places to visit in Greece, Santorini is the diamond of the Aegean. Thousands are drawn to the beauty of this island every year and leave knowing that there is nowhere else like it.",
+        "fullDetails":"Probably one of the most well-known places to visit in Greece, Santorini is the diamond of the Aegean. Thousands are drawn to the beauty of this island every year and leave knowing that there is nowhere else like it. This spectacularly beautiful place is one of the most scenic in all the Greek Islands. Picturesque and world-renowned, Santorini must be seen to be believed.Take a dip in the turquoise waters, walk around the beautiful villages and dine in the fine restaurants, Santorini will steal your heart. This is still easily one of our favourite places in Greece. From its volcanic beaches and whitewashed houses to its incredible sunsets and scenery, Santorini is most definitely one of the best places to visit in Greece. Learn more about the best 15 things to see and do in Santorini in our post."
+    },
+    {
+        "key": "SNS03",
+        "name": "The pools of Pamukkale",
+        "place":"TURKEY",
+        "rating":4.4,
+        "img": "https://media.cntraveller.com/photos/611befd3a86777b29fbc56f1/master/w_960,c_limit/pamukkale-gettyimages-154356727.jpg",
+        "price": 1550,
+        "days":"2 days 3 nights",
+        "details": "The mineral springs that have cascaded down the hillside for thousands of years have created this extraordinary sight – Pamukkale means ‘cotton castle’ – in Turkey’s Büyük Menderes Valley..",
+        "fullDetails":"The mineral springs that have cascaded down the hillside for thousands of years have created this extraordinary sight – Pamukkale means ‘cotton castle’ – in Turkey’s Büyük Menderes Valley. The series of natural pools of pale eau-de-nil water, cupped in shallow, organic-shaped basins of gleaming-white travertine, are terraced into the hillside, overspilling with the mineral-rich spring water that formed them and which appears to have frozen in time in petrified waterfalls, stalactites of limestone like wedding-cake icing dripping down the hillside. The spectacle gets busy with tourists, but often overlooked are the ancient ruins of the Greco-Roman spa town Hierapolis, built at the very top of the site, around the healing springs. Here you can bathe in Cleopatra’s very own hot bath, said to have been a gift from Mark Antony; once covered by the Roman temple of Apollo, the doric columns now lie in the water, and the pool is flanked with flowers."
+    },
+    {
+        "key": "SNS04",
+        "name": "Ephesus",
+        "place":"TURKEY",
+        "rating":4.2,
+        "img": "https://media.cntraveller.com/photos/611befd2c15cf5da489ed142/master/w_960,c_limit/ephesus-gettyimages-1126878255.jpg",
+        "price": 1299,
+        "days":"1 days 2 nights",
+        "details": "Turkey has a great number of ancient sites, most far less visited than similar sites in Italy and Greece; and Ephesus, now UNESCO-protected, is arguably the grandest of them all.",
+        "fullDetails":"Turkey has a great number of ancient sites, most far less visited than similar sites in Italy and Greece; and Ephesus, now UNESCO-protected, is arguably the grandest of them all. The Temple of Artemis which stood in the ancient city of Ephesus was one of the original Seven Wonders of the World. Little remains of it now, but the remains of Ephesus are wondrous nonetheless. Set back from the Aegean coast, the settlement began 9,000 years ago. There Roman, Christian, Ottoman, Hellenistic and Greek monuments: colonnaded streets, temples, a huge amphitheatre, the Celsus library whose carved façade still stands today, archways framing the blue Mediterranean sky."
+    },
+    {
+        "key": "SNS05",
+        "name": "Nafplio",
+        "place":"GREECE",
+        "rating":4.9,
+        "img": "https://nitrocdn.com/MYQjpDYxklWlDTBqhUQSzXBjKCPreHXp/assets/static/optimized/rev-aee61b3/wp-content/uploads/2018/03/nafplio-greece.jpg",
+        "price": 1799,
+        "days":"2 days 3 nights",
+        "details": "Shaped over the centuries by many different cultures, today Nafplio is the playground of the Athens elite and one of the places to go in Greece for the rich and famous.",
+        "fullDetails":"Shaped over the centuries by many different cultures, today Nafplio is the playground of the Athens elite and one of the places to go in Greece for the rich and famous. The Ottomans, Byzantines, Venetians and many more have all left their mark on this little seaside metropolis. Citadels and fortresses dot the hillsides giving Nafplio an enticing charm.This friendly and patriotic town was once the capital of Greece, as many of the locals will happily tell you. As well as history, Nafplio also offers some great restaurants and beaches where you can kick back and relax.Explore the narrow and winding streets of the town and marvel at the architecture. Stroll along the esplanade and dine on some of the finest seafood, while million-dollar yachts bob in the harbour next to you.Nafplio is one of the most romantic towns you will ever visit. This is one of the best places in Greece for couples and families."
+    },
+    {
+        "key": "SNS06",
+        "name": "The Great Wall of China",
+        "place":"CHINA",
+        "rating":4.1,
+        "img": "https://www.planetware.com/photos-large/CHN/china-great-wall-and-mountain.jpg",
+        "price": 2099,
+        "days":"2 days 3 nights",
+        "details": "Nobody can be a true hero unless he has been on the Great Wall goes the popular Chinese saying, one that clearly demonstrates the importance placed upon this unique ancient monument.",
+        "fullDetails":"The magnificent Great Wall of China - known in Chinese as 'Changcheng', or the 'Long Wall' - stretches more than 6,000 kilometers from the fortresses of Shanhaiguan in the east all the way to Jiayuguan in the west, passing through Hebei, Tientsin, Beijing - where the best preserved sections of the wall can be visited - Inner Mongolia, Ningxia, and Gansu.Averaging six to eight meters in height but rising as high as 16 meters - and wide enough in places for five horses or 10 men to pass - the wall boasts numerous battlements and watchtowers. Some of the wall's oldest fortifications date back as far as the 7th century BC, with the best-known areas added around 210 BC when its various sections were joined together."
+    },
+    {
+        "key": "SNS07",
+        "name": "The Terracotta Army, Xi'an",
+        "place":"CHINA",
+        "rating":3.9,
+        "img": "https://www.planetware.com/photos-large/CHN/terracotta-army.jpg",
+        "price": 2399,
+        "days":"3 days 3 nights",
+        "details": "It was while digging wells on the outskirts of Xi'an in the 1970s that farmers stumbled across what was to be China's most important archeological find: the Terracotta Army. ",
+        "fullDetails":"It was while digging wells on the outskirts of Xi'an in the 1970s that farmers stumbled across what was to be China's most important archeological find: the Terracotta Army. Distributed over three large underground pits and built to guard the First Emperor's tomb, the find included more than 8,000 life-size warriors, some 520 horses, and more than 100 chariots, along with numerous other non-military characters dating from around 280 BC.Although some were severely damaged due to the passing of time, many of the statues unearthed have been painstakingly re-assembled and stand as testament to the importance bestowed upon the emperor and the afterlife. The site - part of the Emperor Qin Shi Huang's Mausoleum Site Park - is one of China's most important tourist destinations and offers the unforgettable experience of standing in front of this assembly of soldiers and horses as if inspecting a centuries-old parade. English language guided tours are available."
+    },
+    {
+        "key": "SNS08",
+        "name": "Cruising the Li River, Guilin",
+        "place":"CHINA",
+        "rating":5,
+        "img": "https://www.planetware.com/photos-large/CHN/guilin-kweilin.jpg",
+        "price": 1899,
+        "days":"3 days 2 nights",
+        "details": "The town of Guilin, in the northeast corner of Guangxi, boasts some of China's most beautiful countryside and is famous for the Li River, which meanders through the town and surrounding karst mountains.",
+        "fullDetails":"The town of Guilin, in the northeast corner of Guangxi, boasts some of China's most beautiful countryside and is famous for the Li River, which meanders through the town and surrounding karst mountains. While for hundreds of years this unique scenery has attracted poets and artists and has been the subject of countless fairy tales and legends, these days, it's popular with tourists from around the world wanting to see this natural splendor up close.The best way to enjoy the area is to take a cruise along the Li River. The most popular stretch is from Guilin to Yangshuo, where the river meanders peacefully through some 80 kilometers of remarkable rock formations and caves with romantic names such as the Mount of Unique Beauty, Elephant Trunk Hill, and Reed Flute Cave. Depending upon the type of boat used - you can choose from a tourist cruise ship to small bamboo punts - trips can take anywhere from a few hours to multiple days."
+    },
+    {
+        "key": "SNS09",
+        "name": "Cruising the Li River, Guilin",
+        "place":"CHINA",
+        "rating":4,
+        "img": "https://www.planetware.com/photos-large/CHN/guilin-kweilin.jpg",
+        "price": 1999,
+        "days":"3 days 2 nights",
+        "details": "The town of Guilin, in the northeast corner of Guangxi, boasts some of China's most beautiful countryside and is famous for the Li River, which meanders through the town and surrounding karst mountains.",
+        "fullDetails":"The town of Guilin, in the northeast corner of Guangxi, boasts some of China's most beautiful countryside and is famous for the Li River, which meanders through the town and surrounding karst mountains. While for hundreds of years this unique scenery has attracted poets and artists and has been the subject of countless fairy tales and legends, these days, it's popular with tourists from around the world wanting to see this natural splendor up close.The best way to enjoy the area is to take a cruise along the Li River. The most popular stretch is from Guilin to Yangshuo, where the river meanders peacefully through some 80 kilometers of remarkable rock formations and caves with romantic names such as the Mount of Unique Beauty, Elephant Trunk Hill, and Reed Flute Cave. Depending upon the type of boat used - you can choose from a tourist cruise ship to small bamboo punts - trips can take anywhere from a few hours to multiple days."
+    },
+    {
+        "key": "SNS10",
+        "name": "The Northern Lights",
+        "place":"ICELAND",
+        "rating":4.8,
+        "img": "https://com-travelade.imgix.net/media/ck_uploads/2018/06/28/vincent-guth-134627-unsplash-1.jpg?auto=format&crop=fit&fit=crop&h=500&w=800&dpr=1&q=55",
+        "price": 2599,
+        "days":"4 days 3 nights",
+        "details": "The northern lights (Lat. aurora borealis) appear when electrically charged particles, emanating from the sun, travel at a high speed towards Earth, resulting in a collision with the highest air particles. The different colors of the lights are in accordance with the different gases that are found up there. Most northern lights are green in colour, due to collision with oxygen. The solar activity affects the strength of the northern lights.",
+        "fullDetails":"The northern lights (Lat. aurora borealis) appear when electrically charged particles, emanating from the sun, travel at a high speed towards Earth, resulting in a collision with the highest air particles. The different colors of the lights are in accordance with the different gases that are found up there. Most northern lights are green in colour, due to collision with oxygen. The solar activity affects the strength of the northern lights.Iceland is situated on the so-called auroral zone, which means that this magnificent phenomena can be seen from there when the conditions are right. Just remember that spotting northern lights is impossible during summer (blame it on the midnight sun!).For those who like guided tours and perhaps don’t have a rental car to drive outside the city, I think a northern lights tour could be a good idea. The guides are usually very knowledgeable about the Aurora Borealis and I assume they know the best spots to see them. I advise you to check out the northern lights forecast before you book a tour and if the chances are low, you might as well skip it altogether."
+    },
+    {
+        "key": "SNS11",
+        "name": "Downtown Reykjavik",
+        "place":"ICELAND",
+        "rating":4.4,
+        "img": "https://com-travelade.imgix.net/media/ck_uploads/2018/06/28/evelyn-paris-100375-unsplash.jpg?auto=format&crop=fit&fit=crop&h=500&w=800&dpr=1&q=55",
+        "price": 2399,
+        "days":"3 days 3 nights",
+        "details": "Reykjavik City is no metropolis, but it certainly has its charm. Travelers describe it as cool and quirky and food lovers drool over the diverse and hip restaurants you'll find in the capital. ",
+        "fullDetails":"Reykjavik City is no metropolis, but it certainly has its charm. Travelers describe it as cool and quirky and food lovers drool over the diverse and hip restaurants you'll find in the capital.Most travelers end up wandering around in the city center of Reykjavik, even if the purpose of the trip was to explore Iceland's gorgeous nature. The major highlights of Reykjavik are probably the Hallgrímskirkja Church and Harpa Concert Hall. You should definitely take your time to see these magnificent buildings. There are plenty of other interesting things to do and see in the city and you can easily spend at least a couple of days just going to museums and restaurants."
+    },
+    {
+        "key": "SNS12",
+        "name": "The Colosseum",
+        "place":"ROME",
+        "rating":4.7,
+        "img": "https://www.planetware.com/wpimages/2020/08/top-attractions-in-the-world-italy-rome-colosseum.jpg",
+        "price": 2499,
+        "days":"3 days 3 nights",
+        "details": "The most famous and largest structure still standing from the Roman Empire, the Colosseum is also the biggest attraction of modern-day Rome. It's been a bucket-list destination of travelers for generations. And it does not disappoint.",
+        "fullDetails":"The most famous and largest structure still standing from the Roman Empire, the Colosseum is also the biggest attraction of modern-day Rome. It's been a bucket-list destination of travelers for generations. And it does not disappoint.Set in the heart of the city, the Colosseum is an easy place to visit. Direct flights from around the world land in Rome daily, making it a destination you can visit in a weekend if you choose. Wander through Rome's ancient streets, tour the colosseum, and if time allows, plan a trip to other areas of Italy."
+    }
+]
