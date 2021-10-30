@@ -5,7 +5,7 @@ const usePackages = () => {
   // packages to be rendered on the UI
   const [packages, setPackages] = useState([]);
   useEffect(() => {
-    fetch("http://localhost:5000/packages")
+    fetch("https://agile-inlet-86907.herokuapp.com/packages")
       .then((res) => res.json())
       .then((data) => setPackages(data));
   }, []);

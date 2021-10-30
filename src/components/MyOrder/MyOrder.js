@@ -11,7 +11,7 @@ const MyOrder = () => {
   const showBtn = false;
 
   useEffect(() => {
-    fetch("http://localhost:5000/orders/manageAllOrders")
+    fetch("https://agile-inlet-86907.herokuapp.com/orders/manageAllOrders")
       .then((res) => res.json())
       .then((data) => setMyOrders(data));
   }, []);
@@ -21,7 +21,7 @@ const MyOrder = () => {
   const handleDeleteUser = (_id) => {
     const proceed = window.confirm("Are you sure You want to delete ? ");
     if (proceed) {
-      const url = `http://localhost:5000/order/delete/${_id}`;
+      const url = `https://agile-inlet-86907.herokuapp.com/order/delete/${_id}`;
       fetch(url, {
         method: "DELETE",
       })

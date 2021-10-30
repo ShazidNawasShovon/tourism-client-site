@@ -9,9 +9,9 @@
 
 * We have Booking Systems where you can see your booking and all other people bookings.
 
-## Website Link :
+## Website Link : https://go-tour-eebdc.web.app
 
-## Server Link :
+## Server Link : https://agile-inlet-86907.herokuapp.com/
 
 ### Description
 

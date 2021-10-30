@@ -13,12 +13,14 @@ const AddPackage = () => {
   } = useForm();
   // Taken From React Hook Form On Submit
   const onSubmit = (data) => {
-    axios.post("http://localhost:5000/packages", data).then((res) => {
-      if (res.data.insertedId) {
-        alert("Package Added successfully");
-        reset();
-      }
-    });
+    axios
+      .post("https://agile-inlet-86907.herokuapp.com/packages", data)
+      .then((res) => {
+        if (res.data.insertedId) {
+          alert("Package Added successfully");
+          reset();
+        }
+      });
   };
   return (
     <div className="add-package my-0 py-5">
