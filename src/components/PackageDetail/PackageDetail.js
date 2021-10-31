@@ -11,7 +11,7 @@ const PackageDetail = () => {
   const { packages } = usePackages();
   let packageToShow = packages?.filter((pack) => pack._id === serviceId);
   return (
-    <>
+    <div className="container-fluid">
       <Row>
         <Image
           src="https://preview.colorlib.com/theme/direngine/images/xbg_1.jpg.pagespeed.ic.-pmz16MBLM.webp"
@@ -77,7 +77,7 @@ const PackageDetail = () => {
           </div>
         </div>
       </Container>
-    </>
+    </div>
   );
 };
 

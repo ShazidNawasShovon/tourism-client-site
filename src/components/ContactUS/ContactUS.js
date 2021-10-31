@@ -5,7 +5,7 @@ import img8 from "../../images/ContactUS/Ambulance-USA-Contact-US-1-832-872-6667
 
 const ContactUS = () => {
   return (
-    <>
+    <div className="container-fluid">
       <Row>
         <Image src={img7} fluid />
       </Row>
@@ -53,7 +53,7 @@ const ContactUS = () => {
           </Col>
         </Row>
       </Container>
-    </>
+    </div>
   );
 };
 
