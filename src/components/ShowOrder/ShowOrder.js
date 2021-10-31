@@ -5,7 +5,6 @@ const ShowOrder = (props) => {
   const { name, price, place, rating, days, details, img } =
     props.order.cart[0];
   const { _id, status } = props.order;
-
   return (
     <div>
       <Col className="h-100">
@@ -32,9 +31,13 @@ const ShowOrder = (props) => {
             </Card.Text>
             <Card.Text>
               {status === true ? (
-                <small className="">Status: Approved</small>
+                <span className="">
+                  Status: <small className="text-success">Approved</small>{" "}
+                </span>
               ) : (
-                <small className="">Status: Pending</small>
+                <span className="">
+                  Status: <small className="text-danger">Pending</small>{" "}
+                </span>
               )}
             </Card.Text>
           </Card.Body>
@@ -54,7 +57,9 @@ const ShowOrder = (props) => {
               {props.showBtn === true ? (
                 <Button
                   onClick={() => props.handleStatus(_id)}
-                  variant="outline-success"
+                  variant={
+                    status ? "outline-success mb-2" : "outline-dark mb-2"
+                  }
                 >
                   <i className="fas fa-check-circle fs-4"></i>
                 </Button>
@@ -65,7 +70,7 @@ const ShowOrder = (props) => {
             <small className="text-muted">
               <Button
                 onClick={() => props.handleDeleteUser(_id)}
-                variant="outline-danger"
+                variant="outline-danger mb-2"
               >
                 <i className="far fa-times-circle fs-4"></i>
               </Button>

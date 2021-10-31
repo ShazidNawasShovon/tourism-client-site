@@ -12,6 +12,7 @@
 .add-package form {
   max-width: 500px;
   margin: 0 auto;
+  padding: 5px;
 }
 
 .add-package h1,

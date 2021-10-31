@@ -23,7 +23,7 @@ const AddPackage = () => {
       });
   };
   return (
-    <div className="add-package my-0 py-5">
+    <div className="add-package my-0 py-5 container-fluid">
       <h2 className="fw-bold">Please Add a Package</h2>
       <form onSubmit={handleSubmit(onSubmit)}>
         <input
