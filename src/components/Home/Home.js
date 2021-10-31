@@ -1,4 +1,4 @@
-import { Card, Carousel, Col, Container, Row } from "react-bootstrap";
+import { Card, Carousel, Col, Container, Row, Spinner } from "react-bootstrap";
 
 import img0 from "../../images/banner/img-11.jpg";
 import img1 from "../../images/banner/img-12.jpg";
@@ -8,8 +8,23 @@ import img5 from "../../images/home-section/img2.svg";
 import img6 from "../../images/home-section/img3.svg";
 import ShowData from "../ShowData/ShowData";
 import usePackages from "../../Hooks/usePackages";
+import useAuth from "../../Hooks/useAuth";
 const Home = () => {
   const { packages } = usePackages();
+  // for loading screen
+  const { isLoading } = useAuth();
+  if (isLoading) {
+    return (
+      <div className="d-flex mx-auto w-75 my-5 justify-content-center align-items-center container">
+        <div>
+          <Spinner animation="border" variant="primary" className="mx-5" />
+        </div>
+        <div>
+          <h1>Loading...</h1>
+        </div>
+      </div>
+    );
+  }
   return (
     <>
       <div className="container-fluid">
@@ -220,7 +235,6 @@ const Home = () => {
           </div>
         </div>
       </Container>
-
       <Container>
         <h2 className="text-center fw-bold mt-4 fs-1 text-dark">
           Special offers & <span className="text-warning"> Packages</span>{" "}

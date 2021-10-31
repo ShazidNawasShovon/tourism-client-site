@@ -7,9 +7,9 @@ const PrivateRoute = ({ children, ...rest }) => {
   const { user, isLoading } = useAuth();
   if (isLoading) {
     return (
-      <div className="d-flex mx-auto w-75 my-5 justify-content-center">
+      <div className="d-flex mx-auto w-75 my-5 justify-content-center align-items-center container">
         <div>
-          <Spinner animation="border" variant="primary" />
+          <Spinner animation="border" variant="primary" className="mx-5" />
         </div>
         <div>
           <h1>Loading...</h1>

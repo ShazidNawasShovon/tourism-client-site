@@ -6,6 +6,7 @@ const ShowData = (props) => {
   // Destructuring Data
 
   const { name, price, place, rating, days, details, img, _id } = props.package;
+
   return (
     <div>
       <Col className="h-100">

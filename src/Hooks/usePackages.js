@@ -16,6 +16,7 @@ const usePackages = () => {
     fullSymbol="fas fa-star icon-color"
     readonly
   ></Rating>;
+
   return { packages, setPackages };
 };
 
