@@ -30,13 +30,20 @@ const ShowOrder = (props) => {
               <span className="text-muted">{details}</span>{" "}
             </Card.Text>
             <Card.Text>
+              {" "}
+              <small className="">
+                {" "}
+                Booked By : <span className="fw-bold"> {props.order.name}</span>
+              </small>{" "}
+            </Card.Text>
+            <Card.Text>
               {status === true ? (
-                <span className="">
-                  Status: <small className="text-success">Approved</small>{" "}
-                </span>
+                <small className="">
+                  Status: <span className="text-success">Approved</span>{" "}
+                </small>
               ) : (
                 <span className="">
-                  Status: <small className="text-danger">Pending</small>{" "}
+                  Status: <span className="text-danger">Pending</span>{" "}
                 </span>
               )}
             </Card.Text>

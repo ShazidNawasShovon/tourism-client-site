@@ -102,8 +102,9 @@ const Order = () => {
         <input placeholder="Address" defaultValue="" {...register("address")} />
         <input placeholder="City" defaultValue="" {...register("city")} />
         <input
-          placeholder="phone number"
+          placeholder="Phone Number"
           defaultValue=""
+          type="number"
           {...register("phone", { required: true })}
         />
         {errors?.phone?.type === "required" && <p>This field is required</p>}
